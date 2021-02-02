@@ -92,4 +92,11 @@ Comme beaucoup de personne, j'utilise VSCode (ou VIM) pour développer. VSCode e
 ### Listes des différentes commandes
 
 - [Créer un projet](https://github.com/SckyzO/Oh-My-Git/blob/main/creer_un_projet.md)
-- 
+- [Commandes de bases](https://github.com/SckyzO/Oh-My-Git/blob/main/git-command.md)
+- [Commandes avancées - branches / commits](https://github.com/SckyzO/Oh-My-Git/blob/main/git_base.md)
+- [Les tags](https://github.com/SckyzO/Oh-My-Git/blob/main/git_tag.md)
+- [Les releases](https://github.com/SckyzO/Oh-My-Git/blob/main/git_release.md)
+- [Gestion avancée des commits](https://github.com/SckyzO/Oh-My-Git/blob/main/git_cancel_commit.md)
+- [Gestion des diffs](https://github.com/SckyzO/Oh-My-Git/blob/main/git_diff.md)
+- [Gestion de l'historique](https://github.com/SckyzO/Oh-My-Git/blob/main/git_history.md)
+- [Git log](https://github.com/SckyzO/Oh-My-Git/blob/main/git_log.md)
