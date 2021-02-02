@@ -87,4 +87,9 @@ Avant tout, il est nécessaire de mettre sa clé SSH publique sur le serveur de 
 
 ### VSCode
 
-Comme beaucoup de personne, j'utilise VSCode (ou VIM) pour développer. VSCode est super pour plein de raison. Il supporte nativement git, et permet de switcher de branche, pull, push, commit ... bref un super outil. Vous pouvez aussi installer des extensions pour vous aider avec git, mais pour une simple utilisation je pense que de base il sera très bien 
+Comme beaucoup de personne, j'utilise VSCode (ou VIM) pour développer. VSCode est super pour plein de raison. Il supporte nativement git, et permet de switcher de branche, pull, push, commit ... bref un super outil. Vous pouvez aussi installer des extensions pour vous aider avec git, mais pour une simple utilisation je pense que de base il sera très bien pour le commun des mortels :)
+
+### Listes des différentes commandes
+
+- [Créer un projet](https://github.com/SckyzO/Oh-My-Git/blob/main/creer_un_projet.md)
+- 
