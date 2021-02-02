@@ -12,7 +12,7 @@ echo "# MON_PROJET" >> README.md
 git init
 git add README.md
 git commit -m "Initial commit"
-git remote add origin ....git
+git remote add origin git@github.com:SckyzO/mon_projet
 git push -u origin master
 ```
 
